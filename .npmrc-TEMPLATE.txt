@@ -1,0 +1,3 @@
+//npm.pkg.github.com/:_authToken=GH_PAT
+# @OWNER:registry=https://npm.pkg.github.com
+@Matija8:registry=https://npm.pkg.github.com

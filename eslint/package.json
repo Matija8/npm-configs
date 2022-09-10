@@ -1,5 +1,5 @@
 {
-  "name": "matija8-configs-eslint",
+  "name": "@matija8/npm-configs-eslint",
   "author": "Matija8",
   "version": "0.0.1",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
     "start": "npm run build",
     "b": "npm run build",
     "build": "tsc",
-    "publish": ""
+    "p": "npm publish"
   },
   "devDependencies": {
     "ts-node": "^10.9.1",

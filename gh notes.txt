@@ -4,6 +4,11 @@ https://docs.github.com/en/packages/working-with-a-github-packages-registry/work
 Installing a package from GH:
 https://docs.github.com/en/packages/learn-github-packages/installing-a-package
 
+Example Package:
+https://github.com/Codertocat/hello-world-npm/pkgs/npm/hello-world-npm
+
 GH packages:
 https://docs.github.com/en/packages
 
+Search your packages:
+https://github.com/search?q=matija8&type=registrypackages

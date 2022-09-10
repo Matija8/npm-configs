@@ -1,0 +1,9 @@
+Publishing to GitHub:
+https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry
+
+Installing a package from GH:
+https://docs.github.com/en/packages/learn-github-packages/installing-a-package
+
+GH packages:
+https://docs.github.com/en/packages
+
